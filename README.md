@@ -12,8 +12,8 @@
 组内基本上都是使用深度学习来解决计算机视觉中的问题。
 基础的机器学习课程包含在[深度学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_2-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)下。
 ## 第三阶段: 深度学习框架（Deep Learning Library）
-当下比较流行的框架就是pytorch和tensorflow（基于python）。//暂时不需要学习tensorflow
-教程包含在[深度学习框架](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_3-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)下。
+当下比较流行的框架就是pytorch和tensorflow（基于python）。//暂时不需要学习tensorflow 
+  教程包含在[深度学习框架](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_3-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)下。
 
 # 进阶阶段
 当学习完上边的课程之后，根据自身的实际情况针对下边两个阶段进行学习。
